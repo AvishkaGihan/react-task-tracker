@@ -1,6 +1,3 @@
-Certainly! Here's the complete README.md content in markdown format:
-
-````markdown
 # React Task Tracker
 
 A simple task tracker application built with React.
@@ -34,6 +31,7 @@ To get a local copy of the project up and running, follow these simple steps:
 ```bash
 git clone https://github.com/AvishkaGihan/react-task-tracker.git
 ```
+
 ````
 
 2. Navigate to the project directory:
@@ -71,3 +69,4 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and commit them: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature-name`.
 5. Create a pull request.
+````
