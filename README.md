@@ -9,7 +9,6 @@ A simple task tracker application built with React.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
